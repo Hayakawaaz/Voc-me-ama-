@@ -21,6 +21,7 @@
 <img align="right" height="350" src="https://gifimage.net/wp-content/uploads/2017/10/cat-gif-transparent-1.gif"  />
 
 ###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
