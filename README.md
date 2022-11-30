@@ -5,9 +5,17 @@
   </h1>
   <h3 align="center">Junior front-end developer</h3>
 
-<h3  align="left">
-  🌱 Eu estou atualmente aprendendo sobre: **React-native, bootstrap, nextjs e qualquer outra ferramente de desenvolvimento web que possa me interessar**
-</h3>
+<br clear="both">
+
+###
+
+<b  align="left">
+  🌱 Eu estou atualmente aprendendo sobre: **React-native, bootstrap, nextjs ou qualquer outra ferramente de desenvolvimento web que possa me interessar**
+</b>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Anthony-MPO-dev" height="150" alt="stats graph"  />
@@ -65,3 +73,5 @@
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
+
+###
