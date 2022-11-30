@@ -5,12 +5,10 @@
   </h1>
   <h3 align="center">Junior front-end developer</h3>
 
-<p  align="left">
-  - 🌱 Eu estou atualmente aprendendo sobre: **React-native, bootstrap, nextjs e qualquer outra ferramente de desenvolvimento web que possa me interessar**
-</p>
-<p  align="left">
-  - 📫 Como me contactar: **anthonymuniz12@gmail.com**
-</p>
+<h3  align="left">
+  🌱 Eu estou atualmente aprendendo sobre: **React-native, bootstrap, nextjs e qualquer outra ferramente de desenvolvimento web que possa me interessar**
+</h3>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Anthony-MPO-dev" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Anthony-MPO-dev" height="150" alt="languages graph"  />
@@ -31,6 +29,10 @@
 </div>
 
 ###
+
+<b align="left">
+  - 📫 Como me contactar:
+</b>
 
 <div align="center">
   <a href="https://www.instagram.com/anthoonymuniz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
