@@ -31,13 +31,6 @@
 
 ###
 
-<img align="right" height="350" src="https://gifimage.net/wp-content/uploads/2017/10/cat-gif-transparent-1.gif"  />
-
-
-<br clear="both">
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/anthoonymuniz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anthony-muniz-a0b098219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -46,7 +39,11 @@
 
 ###
 
+<img align="right" height="350" src="https://gifimage.net/wp-content/uploads/2017/10/cat-gif-transparent-1.gif"  />
+
 <br clear="both">
+
+###
 
 <div align="center">
 
