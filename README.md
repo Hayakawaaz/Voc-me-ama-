@@ -18,11 +18,6 @@
 
 ###
 
-<img align="right" height="350" src="https://gifimage.net/wp-content/uploads/2017/10/cat-gif-transparent-1.gif"  />
-
-###
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" width="62" alt="typescript logo"  />
@@ -33,6 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="62" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="62" alt="git logo"  />
 </div>
+
+###
+
+<img align="right" height="350" src="https://gifimage.net/wp-content/uploads/2017/10/cat-gif-transparent-1.gif"  />
+
+
+<br clear="both">
 
 ###
 
