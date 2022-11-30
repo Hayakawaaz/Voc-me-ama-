@@ -1,7 +1,7 @@
 
   <h1 align="center">
     Oi Tudo bem? Eu me chamo 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Anthony Muniz</a> 
+    <a href="https://www.linkedin.com/in/anthony-muniz-a0b098219/">Anthony Muniz</a> 
   </h1>
   <h3 align="center">Junior front-end developer</h3>
 
