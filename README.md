@@ -61,9 +61,9 @@
 
 
 
-<div align="center">
+<div align="left">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-mpo-dev&" alt="anthony-mpo-dev" /></p>
-  <img align="center" height="230" src="https://gifimage.net/wp-content/uploads/2017/10/cat-gif-transparent-1.gif"  />
+  <img align="center" height="230" src="https://i.pinimg.com/originals/95/84/eb/9584ebc40ddacb7a0f18c9c86259ae18.gif"  />
 </div>
 
 ###
