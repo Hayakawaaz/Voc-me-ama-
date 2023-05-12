@@ -10,7 +10,7 @@
 ###
 
 <b  align="left">
-  🌱 Eu estou atualmente aprendendo sobre: React-native, bootstrap, nextjs, tailwindcss e qualquer outra ferramente de desenvolvimento web que possa me interessar
+  🌱 Eu estou atualmente aprendendo sobre: React, React-native, bootstrap, nextjs, tailwindcss e qualquer outra ferramente de desenvolvimento web que possa me interessar
 </b>
 
 ###
