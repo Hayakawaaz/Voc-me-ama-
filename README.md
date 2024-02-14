@@ -3,14 +3,14 @@
     Oi Tudo bem? Eu me chamo 
     <a href="https://www.linkedin.com/in/anthony-muniz-a0b098219/">Anthony Muniz</a> 
   </h1>
-  <h3 align="center">Junior front-end developer</h3>
+  <h3 align="center">Analista de Dados e Desenvolvedor Júnior em IA</h3>
 
 <br clear="both">
 
 ###
 
 <b  align="left">
-  🌱 Eu estou atualmente aprendendo sobre: React, React-native, bootstrap, nextjs, tailwindcss e qualquer outra ferramente de desenvolvimento web que possa me interessar
+  🌱 Eu estou atualmente trabalhando com analise de dados epidemiológicos, e apredendo sobre Machine Learning usando: Python, React, javascript, sckitlearn, e diversas outras ferramentas e bibliotecas que possam me ajudar...  
 </b>
 
 ###
